@@ -19,7 +19,7 @@ In Xcode navigate to File → Swift Packages → Add Package Dependency...
 
 Use this URL to add the dependency: https://github.com/PhilippHuebl/SwiftUI-ColorPicker
 
-# Style
+# Styles
 
 ## Circle
 
